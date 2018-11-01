@@ -1,8 +1,8 @@
 # JavaScript Fundamentals
-## Lesson 2 - Objects
-- Declare Objects 
-- Using Object Literals
-- Assigning properties and Values to objects (Key-Value Pairs)
-- Object functions that return object keys using 'this' keyword
-- Object Constructor
-- Prototypes 
+## Lesson 4 - Arrays
+- Declare Array && Control Structures
+- Using Array Literals
+- Access array using indexes
+- Array Objects
+- Control Structures
+- Looping through data using for loop 
