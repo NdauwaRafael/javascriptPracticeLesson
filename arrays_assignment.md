@@ -49,6 +49,6 @@
 
 Chose 9 questions among the ones given above. Question 13 is compulsory.  Write clear code and share individual work to rkaranja@cytonn.com, cc: submissions@cytonncollege.ac.ke, cc:mwamae@cytonn.com.
 
-Kindly ensure to submit the assignment by tommorrow midday.
+Kindly ensure to submit the assignment by Sunday midday.
 
 Regards,
