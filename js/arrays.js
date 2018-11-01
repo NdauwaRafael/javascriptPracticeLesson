@@ -17,4 +17,4 @@ let students = [
     },
 ];
 
-console.log(students[0].name);
+console.log(students[0]);
